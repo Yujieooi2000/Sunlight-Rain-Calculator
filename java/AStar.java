@@ -109,7 +109,7 @@ public class AStar {
         int col = currentNode.getCol();
         List<String> mLines = new ArrayList<>();
         try {
-            File myMap = new File("./Sunlight_Rain_Calculator/themap.txt");
+            File myMap = new File("./java/themap.txt");
             Scanner myReader = new Scanner(myMap);
             while (myReader.hasNextLine()){
                 mLines.add(myReader.nextLine());
@@ -332,7 +332,7 @@ public class AStar {
         int col = currentNode.getCol();
         List<String> mLines = new ArrayList<>();
         try {
-            File myMap = new File("./Sunlight_Rain_Calculator/themap.txt");
+            File myMap = new File("./java/themap.txt");
             Scanner myReader = new Scanner(myMap);
             while (myReader.hasNextLine()){
                 mLines.add(myReader.nextLine());
