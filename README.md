@@ -6,7 +6,7 @@ Objective:
 
 About The System:
 - Use Java programming language
-- Solar Position Algorithm (SPA) is implemented for the sunlight exposure computation
+- Solar Position Algorithm (SPA) and Ray-Triangle Intersection Algorithm (RTI) is implemented for the sunlight exposure computation
 - A* algorithm is implemented in order to compute the route path selection
 - Apply MySQL database to store the data information 
 
