@@ -1,0 +1,1 @@
+SELECT * FROM dissertation.map_position;
