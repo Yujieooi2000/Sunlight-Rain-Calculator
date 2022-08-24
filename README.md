@@ -1,4 +1,4 @@
-# Sunlight_Rain_Caluclator
+# Route Path Planner Based On Sunlight and Rain Exposure
 
 Objective:
 - To provide the best route selection from one point to another point based on the users’ requirements
